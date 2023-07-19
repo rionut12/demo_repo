@@ -1,2 +1,4 @@
 first branch text
 text from master branch
+text from second_branch
+
